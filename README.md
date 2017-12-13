@@ -15,3 +15,4 @@ Language             | Name
 -------------------- | ------------------
 Dutch                | @GeoffreyWesthoff
 Chinese (Simplified) | @austinhuang0131
+Portuguese (Portugal)| @PillGP
