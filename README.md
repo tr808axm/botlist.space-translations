@@ -2,11 +2,12 @@
 The locale files used to translate the site into different languages.
 
 ## How to translate
-1. Navigate into `locales`
-2. Copy `en-us.json` to `locale-name.json` (replace `locale-name` with the short version of the language)
-3. Edit the file with proper translations
-4. For every language file there is, add the translation `language_name` but replace name with the proper English name of the new language. Then for each of the translations in each file, make sure to spell the new language like that language file would
-4. Push new changes to forked repo and submit a PR
+1. Navigate into the `locales` folder.
+2. Copy all data from `en-us.json` into a new file called `lang.json` but replace `lang` with the shortened version of the translated language.
+3. Translate everything inside that file.
+4. For every other locale file, add a property called `language_name` but replace `name` with the English version of that language. For the translated value, put the language but in the language of that locale file. For example in `en-us.json`, it would be `"language_english": "English"`.
+5. Update the `Translators` table within the README.md file to include your GitHub username and language.
+6. Submit a Pull Request and we'll review it soon.
 
 ## Translators
 
