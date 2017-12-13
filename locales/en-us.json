@@ -88,6 +88,8 @@
     "language": "Language",
     "language_desc": "Adjust the language for the site for you.",
     "language_english": "English",
+    "language_dutch": "Dutch",
+    "language_chinese_simp": "Chinese Simplified",
     "settings_desc": "Adjust the settings for your account, including the theme.",
     "theme": "Theme",
     "theme_notice": "Currently, changing themes does not work because we hasn't set them up yet. If you have a good theme you made with CSS, please suggest it to us on the official server.",
