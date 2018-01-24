@@ -3,7 +3,6 @@
 	"site_desc": "一个简单的机器人列表。为现代网络而生。",
 	"home": "主页",
 	"bots": "机器人",
-	"api": "API",
 	"add_bot": "添加机器人",
 	"official_server": "官方服务器",
 	"profile": "个人资料",
@@ -60,7 +59,6 @@
 	"html": "HTML",
 	"submit": "提交",
 	"invite_url_generator": "生成邀请链接",
-	"api_desc": "Beep boop. Beep boop?",
 	"tokens": "密钥",
 	"tokens_1": "向本API的每个 ",
 	"tokens_2": " 请求需添加一个名为 ",
@@ -119,5 +117,7 @@
 	"streaming": "直播中",
 	"upvote": "顶",
 	"upvotes": "顶",
-	"upvoted": "已顶"
+	"upvoted": "已顶",
+	"documentation": "说明文档",
+	"documentation_desc": "关于本站的所有说明文档。"
 }
