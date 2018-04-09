@@ -93,7 +93,7 @@
   "theme_notice": "Aktuell funktioniert das Ändern des Themes nicht, weil wir es nocht nicht eingerichtet haben. Wenn du ein gutes Theme hast, das du mit CSS erstellt hast, schlage es uns bitte auf dem offiziellen Server vor.",
   "token": "Token",
   "token_desc": "Dies ist das Token, das gebraucht wird, um auf bestimmte API-Endpunkte für den Bot %s zuzugreifen.",
-  "token_1": "Dies ist das token, das im ",
+  "token_1": "Dies ist das Token, das im ",
   "token_2": " Header in manchen API-Anfragen gesetz werden sollte. Es wird genutzt, um sicherzustellen, dass du der Besitzer des Bots, der das Ziel dieses Endpunktes ist, bist. Das ist dein Token:",
   "twitter": "Twitter",
   "instagram": "Instagram",
