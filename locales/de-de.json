@@ -46,7 +46,7 @@
   "level_1": "Level 1 – Grundlegenes Annehmen und Ablehnen von Bots",
   "level_2": "Level 2 – Kann Rollen zuweisen",
   "level_3": "Level 3 – Entwickler",
-  "add_bot_desc": "Fülle dieses Formular aus, um deinen Bot auf dieses Seite hinzufügen zu lassen.",
+  "add_bot_desc": "Fülle dieses Formular aus, um deinen Bot auf diese Seite hinzufügen zu lassen.",
   "id": "ID",
   "id_notice": "Stelle sicher, dass dies die Anwendungs-ID ist, die bei deiner App in der Discord Entwicklerdokumentation angezeigt wird.",
   "invite_url": "Einladungs-URL",
